@@ -2,7 +2,7 @@
 
 ## about me:
 - 🌈 pronouns: she/her
-- 🏔️ MS Geosciences student at Boise State University
+- 🏔️ MS Geosciences student at Boise State University & Juneau Icefield Research Program alum
 - ⛷️ sport climbing & touring (gates out always)
 - 🎨 blind contour & watercolor artist
 
