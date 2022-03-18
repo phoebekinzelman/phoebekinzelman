@@ -4,7 +4,7 @@
 - 🌈 pronouns: she/her
 - 🏔️ MS Geosciences student at Boise State University
 - ⛷️ sport climbing & touring (gates out always)
-- 🎨 blind contour & watercolour artist
+- 🎨 blind contour & watercolor artist
 
 ## current projects:
 - 🛰️ processing Landsat data to study terminus position change in Greenland
