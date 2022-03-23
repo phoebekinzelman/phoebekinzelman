@@ -4,7 +4,7 @@
 - 🌈 pronouns: she/her
 - 🏔️ MS Geosciences student at Boise State University
 - ❄ [Juneau Icefield Research Program](https://juneauicefield.org/) alum
-- ⛷️ sport climbing & touring (gates out always)
+- ⛷️ sport climbing & touring
 - 🎨 blind contour & watercolor artist
 
 ## current projects:
