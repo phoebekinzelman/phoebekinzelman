@@ -2,7 +2,7 @@
 
 ## about me:
 - 🌈 pronouns: she/her
-- 🏔️ MS Geosciences student working with [Ellyn Enderlin](https://github.com/ellynenderlin) in the [CryoGARS Lab](https://www.boisestate.edu/earth-cryogars/)
+- 🏔️ MS Geosciences student working with [Ellyn Enderlin](https://github.com/ellynenderlin) in the [CryoGARS Lab](https://github.com/CryoGARS-Glaciology)
 - ❄ [Juneau Icefield Research Program](https://juneauicefield.org/) alum
 - ⛷️ sport climbing & touring
 - 🎨 blind contour & watercolor artist
