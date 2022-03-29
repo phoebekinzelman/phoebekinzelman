@@ -1,7 +1,7 @@
 # Hi there, my name is Phoebs!
 
 ## about me:
-- 🌈 pronouns: she/her
+- 🌈 pronouns: she/her #lgbtqinstem
 - 🏔️ MS Geosciences student working with [Ellyn Enderlin](https://github.com/ellynenderlin) in the [CryoGARS Lab](https://github.com/CryoGARS-Glaciology)
 - ❄ [Juneau Icefield Research Program](https://juneauicefield.org/) alum
 - ⛷️ sport climbing & touring
