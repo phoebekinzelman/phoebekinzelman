@@ -2,7 +2,7 @@
 
 ## about me:
 - 🌈 pronouns: she/her
-- 🏔️ MS Geosciences student at Boise State University
+- 🏔️ MS Geosciences student working with [Ellyn Enderlin](https://github.com/ellynenderlin) at Boise State University
 - ❄ [Juneau Icefield Research Program](https://juneauicefield.org/) alum
 - ⛷️ sport climbing & touring
 - 🎨 blind contour & watercolor artist
