@@ -4,7 +4,7 @@
 - 🌈 pronouns: she/her
 - 🏔️ MS Geosciences student working with [Ellyn Enderlin](https://github.com/ellynenderlin) in the [CryoGARS Lab](https://github.com/CryoGARS-Glaciology)
 - ❄ [Juneau Icefield Research Program](https://juneauicefield.org/) alum
-- 🩺 Wilderness First Responder & CPR certified
+- 🩺 Wilderness First Responder, CPR, SafeSport, USAC certified
 - ⛷️ sport climbing & touring
 - 🎨 blind contour & watercolor artist
 
