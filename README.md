@@ -10,7 +10,7 @@
 
 ## current projects
 - 🛰️ processing Landsat data to study terminus position change in Greenland
-- 🌱 my MS thesis (expected graduation: 2023)
+- 🌱 MESci coursework (expected graduation: 2023)
 
 ## i use
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
