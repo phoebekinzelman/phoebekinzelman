@@ -16,6 +16,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=for-the-badge&logo=MATLAB)
+![Arduino](https://img.shields.io/badge/-Arduino-lightblue?style=for-the-badge&logo=Arduino)
 ![QGIS](https://img.shields.io/badge/-QGIS-green?style=for-the-badge&logo=QGIS)
 ![JMARS](https://img.shields.io/badge/-JMARS-cyan?style=for-the-badge&logo=JMARS)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
