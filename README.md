@@ -2,7 +2,7 @@
 
 ## about me
 - 🌈 pronouns: she/her
-- 🏔️ M. Earth Science graduate from the [CryoGARS Lab](https://github.com/CryoGARS-Glaciology) and [Ellyn Enderlin's lab](https://github.com/ellynenderlin)
+- 🏔️ M. Earth Science graduate from [Ellyn Enderlin's lab](https://github.com/ellynenderlin) and [CryoGARS Glaciology](https://github.com/CryoGARS-Glaciology) and
 - ❄ [Juneau Icefield Research Program](https://juneauicefield.org/) alum
 - 🩺 Wilderness First Responder, CPR, SafeSport certified
 - ⛷️ sport climbing & touring
