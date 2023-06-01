@@ -2,15 +2,14 @@
 
 ## about me
 - 🌈 pronouns: she/her
-- 🏔️ M. Earth Science student working with [Ellyn Enderlin](https://github.com/ellynenderlin) in the [CryoGARS Lab](https://github.com/CryoGARS-Glaciology)
+- 🏔️ M. Earth Science graduate from the [CryoGARS Lab](https://github.com/CryoGARS-Glaciology) and [Ellyn Enderlin's lab](https://github.com/ellynenderlin)
 - ❄ [Juneau Icefield Research Program](https://juneauicefield.org/) alum
 - 🩺 Wilderness First Responder, CPR, SafeSport certified
 - ⛷️ sport climbing & touring
 - 🎨 blind contour & watercolor artist
 
 ## current projects
-- 🛰️ processing Landsat data to study terminus position change in Greenland
-- 🌱 MESci coursework (expected graduation: 2023)
+- NONE :)
 
 ## i use
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
