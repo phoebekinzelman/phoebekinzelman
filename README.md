@@ -4,7 +4,8 @@
 - 🌈 pronouns: she/her
 - 🏔️ M. Earth Science graduate from [Ellyn Enderlin's lab](https://github.com/ellynenderlin) and [CryoGARS Glaciology](https://github.com/CryoGARS-Glaciology)
 - ❄ [Juneau Icefield Research Program](https://juneauicefield.org/) alum
-- 🩺 Wilderness First Responder, CPR, SafeSport certified
+- 🩺 Wilderness First Responder & Basic Life Support for Healthcare Providers certified
+- 🏥 Wilderness Emergency Medical Technician in training!
 - ⛷️ sport climbing & touring
 - 🎨 blind contour & watercolor artist
 
