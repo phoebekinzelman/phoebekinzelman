@@ -8,6 +8,7 @@
 - 🏥 Wilderness Emergency Medical Technician in training!
 - ⛷️ sport climbing & touring
 - 🎨 blind contour & watercolor artist
+- [Personal website](https://pkinzelman.wixsite.com/alpineluvr)
 
 ## current projects
 - NONE :)
