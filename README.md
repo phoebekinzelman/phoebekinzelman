@@ -7,7 +7,7 @@
 - 🩺 Wilderness Emergency Medical Technician
 - ⛷️ sport climbing & touring
 - 🎨 blind contour & watercolor artist
-- [Website](https://phoebekinzelman.myportfolio.com/)
+- [Personal website](https://phoebekinzelman.myportfolio.com/)
 
 ## current projects
 - NONE :)
