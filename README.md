@@ -5,12 +5,11 @@
 - 🏔️ M. Earth Science graduate from [Ellyn Enderlin's lab](https://github.com/ellynenderlin) and [CryoGARS Glaciology](https://github.com/CryoGARS-Glaciology)
 - ❄ [Juneau Icefield Research Program](https://juneauicefield.org/) alum
 - 🩺 Wilderness Emergency Medical Technician
-- ⛷️ sport climbing & touring
-- 🎨 blind contour & watercolor artist
+- ⛷️ sport climbing & ski touring
 - [Personal website](https://phoebekinzelman.myportfolio.com/)
 
 ## current projects
-- NONE :)
+- none
 
 ## i use
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,4 +26,4 @@
 - ☄️ __Kinzelman, P.__ (2019). Fracture Networks on Mars: Preservation of Surface and Subsurface Environments at Mawrth Vallis. _The Journal of Purdue Undergraduate Research, 9_(6), 42-48. doi: https://doi.org/https://doi.org/10.5703/1288284316931
 - 🏛️ Hartman, C., Smith, D., Brown, M., & __Kinzelman, P__. (2019). Studies, Meetings of Experts, Decadal Surveys and other Products of the Space Studies Board: History, Process, and Uses. _70th International Astronautical Congress._ Talk presented at 2019 IAC conference, Washington, D.C. IAC-19,A7,1,1,x54696.
 
-## contact: phoebekinzelman@u.boisestate.edu
+## contact: phoebekinzelman@gmail.com
